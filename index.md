@@ -23,3 +23,9 @@ In order to update remote refs using local ones enter the command
 ```
 git push
 ```
+## Showing commited logs
+To show list of commited logs enter the command
+```
+git log 
+or 
+git log --oneline

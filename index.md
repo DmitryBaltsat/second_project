@@ -1,7 +1,17 @@
 # Main commands GIT
+
 ## New repository initiation
-Go to porject files folder and enter command
+
+Go to the project files folder and enter the command
 ```
 git init
 ```
+
+## Adding file in order to commit
+
+Create file with needed content and enter the command
+```
+git add <filename>
+```
+
 

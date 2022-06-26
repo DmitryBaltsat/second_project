@@ -13,5 +13,13 @@ Create file with needed content and enter the command
 ```
 git add <filename>
 ```
-
-
+## Commiting files to confirm changes
+Enter the command
+```
+git commit -m "<comments>"
+```
+## Pushing repository changes to remote reference
+In order to update remote refs using local ones enter the command
+```
+git push
+```

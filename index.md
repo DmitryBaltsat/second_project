@@ -29,3 +29,10 @@ To show list of commited logs enter the command
 git log 
 or 
 git log --oneline
+```
+## Branch creation
+In order to create new branch enter the command
+```
+git branch <branch_name>
+or 
+git checkout -b <branch_name>

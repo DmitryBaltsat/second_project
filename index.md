@@ -30,6 +30,11 @@ git log
 or 
 git log --oneline
 ```
+To add options to your log command type
+```
+git reflog <subcommand> <options>
+```
+
 ## Branch creation
 In order to create new branch enter the command
 ```

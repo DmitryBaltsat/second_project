@@ -52,3 +52,8 @@ In order to reapply commits on top of each other move to master branch and enter
 ```
 git rebase <branch_name>
 ```
+## Adding files to ignore 
+In order to specifie intentionally untracked files to ignore you have to write save them in file and name it
+```
+.gitignore
+```

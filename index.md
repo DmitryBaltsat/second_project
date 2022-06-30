@@ -52,3 +52,9 @@ In order to reapply commits on top of each other move to master branch and enter
 ```
 git rebase <branch_name>
 ```
+## Restoring working tree files
+
+Restore specified paths in the working tree with some contents from a restore source. If a path is tracked but does not exist in the restore source, it will be removed to match the source. To do so type
+```
+git restore <branch_name>
+```

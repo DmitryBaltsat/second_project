@@ -37,8 +37,13 @@ git branch <branch_name>
 or 
 git checkout -b <branch_name>
 ```
-## Merge
-In order to join two or more development histories together move to master brnach and enter the command 
+## Merge branch
+In order to join two or more development histories together move to master branch and enter the command 
 ```
 git merge <branch_name>
+```
+## Rebase branch
+In order to reapply commits on top of each other move to master branch and enter the command 
+```
+git rebase <branch_name>
 ```

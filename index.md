@@ -52,16 +52,19 @@ In order to reapply commits on top of each other move to master branch and enter
 ```
 git rebase <branch_name>
 ```
-<<<<<<< HEAD
 ## Restoring working tree files
 
 Restore specified paths in the working tree with some contents from a restore source. If a path is tracked but does not exist in the restore source, it will be removed to match the source. To do so type
 ```
 git restore <branch_name>
-=======
+```
 ## Adding files to ignore 
 In order to specifie intentionally untracked files to ignore you have to write save them in file and name it
 ```
 .gitignore
->>>>>>> ignore_branch
+```
+## Deleting branch
+In order to delete branch enter the command 
+```
+git branch -d <branch_name>
 ```

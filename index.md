@@ -36,3 +36,9 @@ In order to create new branch enter the command
 git branch <branch_name>
 or 
 git checkout -b <branch_name>
+```
+## Merge
+In order to join two or more development histories together move to master brnach and enter the command 
+```
+git merge <branch_name>
+```

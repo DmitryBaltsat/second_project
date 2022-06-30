@@ -63,4 +63,12 @@ In order to specifie intentionally untracked files to ignore you have to write s
 ```
 .gitignore
 ```
+<<<<<<< HEAD
 ## *** to be continued ***
+=======
+## Deleting branch
+In order to delete branch enter the following command 
+```
+git branch -d <branch_name>
+```
+>>>>>>> delete_branch

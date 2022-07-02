@@ -68,3 +68,8 @@ In order to delete branch enter the following command
 ```
 git branch -d <branch_name>
 ```
+## Cloning repository
+In order to clone a repository into a newly created directory enter the following command 
+```
+git clone <url to repository>
+```

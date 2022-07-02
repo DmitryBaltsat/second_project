@@ -78,3 +78,4 @@ In order to reset changes made and reset current master ti specified state enter
 ```
 git reset <commit hash>
 ```
+

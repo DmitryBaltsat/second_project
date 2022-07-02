@@ -73,3 +73,8 @@ In order to clone a repository into a newly created directory enter the followin
 ```
 git clone <url to repository>
 ```
+## Reset changes 
+In order to reset changes made and reset current master ti specified state enter the following command 
+```
+git reset <commit hash>
+```
